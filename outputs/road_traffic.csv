@@ -1,0 +1,8 @@
+start,destination,average_vehicles,traffic_level,samples_used
+Secunderabad,Ameerpet,6.5,Low,10
+Ameerpet,Punjagutta,10.0,Medium,10
+Punjagutta,Banjara Hills,15.1,High,10
+Punjagutta,Hitech City,6.5,Low,10
+Banjara Hills,Mehdipatnam,10.0,Medium,10
+Mehdipatnam,Gachibowli,15.1,High,10
+Hitech City,Gachibowli,6.5,Low,10
